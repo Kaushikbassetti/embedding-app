@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+h1
+{
+    font-size: 40px;
+    font-family: Algerian;
+    font-weight: 300;
+}
+.line
+{
+    height: 6px;
+    background-color: rgb(219, 19, 19);
+    width: 70px;
+    margin: 8px auto;
+}
+#app
+{
+    background-color: cornflowerblue;
+}
+#game
+{
+    background-color:plum;
+}
+#chatbot
+{
+    background-color: royalblue;
+}
+img
+{
+    height: 200px;
+    width: 200px; 
+}
